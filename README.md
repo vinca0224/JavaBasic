@@ -10,7 +10,7 @@
 ##chapter 01. 자바의 특징
 - 자바의 특징
     - 객체지향 언어, 메모리 자동정리, 모든 운영체제에서 사용가능
-- [JDK?, JRE?, JavaSE?](https://jindream6128.tistory.com/54)
+- [JDK? JRE? JavaSE?](https://jindream6128.tistory.com/54)
     - JDK : 자바 개발 도구, JRE : 자바 실행 환경, JavaSE : 자바 문법을 정의하는 청사진
 - 자바 컴파일과정
     - 1. 자바언어로 개발자가 자바소스파일(.java)을 작성
